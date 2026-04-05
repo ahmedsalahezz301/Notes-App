@@ -1,0 +1,5 @@
+{
+  "name": "Modern Notes App",
+  "description": "A full modern Notes Web App using React and Supabase with authentication, real-time updates, and dark mode.",
+  "requestFramePermissions": []
+}
